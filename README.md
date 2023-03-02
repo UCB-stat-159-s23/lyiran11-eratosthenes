@@ -1,1 +1,0 @@
-# lyiran11-eratosthenes
